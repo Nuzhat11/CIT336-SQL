@@ -1,0 +1,13 @@
+(Part 2)
+
+1. Inserting a row into table Books: 
+INSERT INTO Books (Number, Name, Author, Genre)
+VALUES (16, 'The Book Thief', 'Markus Zusak', 'Historical Fiction';
+
+2. List 'teams' in alphabetical order from table FIFA: 
+SELECT * FROM FIFA
+ORDER BY Team;
+
+3. Show Movie by genre:
+SELECT * FROM  Movies
+ORDER BY Genre;
